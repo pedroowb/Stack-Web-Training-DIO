@@ -6,33 +6,33 @@ A ideia deste Desafio de Projeto é elaborar um website utilizando uma estrutura
 
 ## Resolução
 
-Para desenvolver este projeto, vou fazer o esqueleto de uma Wiki do anime **Black Clover**. A estrutura básica e as tags utilizadas servirão para construir uma base informativa sobre o anime.
+Para desenvolver este projeto, vou fazer o esqueleto de uma mini Wiki do anime **Black Clover**. A estrutura básica e as tags utilizadas servirão para construir uma base informativa sobre o anime.
 
 ## Tags Utilizadas
 
 Durante o desenvolvimento do projeto, serão utilizadas as seguintes tags:
 
 - Tags obrigatórias:
-  - `<h1>` até `<h6>`
-  - `<p>`
-  - `<mark>`
+  - `<h1>` até `<h6>` ✅
+  - `<p>` ✅
+  - `<mark>` ✅
   - `<small>`
-  - `<i>`
-  - `<u>`
+  - `<i>` ✅
+  - `<u>` ✅
   - `<strong>`
-  - `<ol>`
-  - `<ul>`
-  - `<li>`
-  - `<a>`
-  - `<hr>`
-  - `<sub>`
-  - `<sup>`
-  - `<blockquote>`
-
+  - `<ol>` ✅
+  - `<ul>` ✅
+  - `<li>` ✅
+  - `<a>` ✅
+  - `<hr>` ✅
+  - `<sub>` ✅
+  - `<sup>` ✅
+  - `<blockquote>` ✅
+ 
 - Novas tags sugeridas (buscar na internet, entender e utilizar no texto):
-  - `<font>`
-  - `<del>`
-  - `<abbr>`
+  - `<font>` ✅
+  - `<del>` ✅
+  - `<abbr>` ✅
 
 ## GitHub
 
